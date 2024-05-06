@@ -5,7 +5,7 @@ permalink: /publication/2015-Eucass
 excerpt: 'The ESPOSA project develops and integrates novel design and manufacturing technologies for a range of small gas turbine engines up to approximately 1.000 kW (SL ISA) to provide aircraft manufacturers with a better choice of modern propulsion units.'
 date: 2015-04-20
 venue: '6th European Conference For Aeronautics And Space Sciences (EUCASS)'
-paperurl: 'https://morabito-a.github.io/info/files/2015-Eucass.pdf'
+paperurl: ''
 citation: 'Hendrick, P., Gobeil, M., Morabito, A., Roba, C., Carozza, A., Mingione, G., & Pezzella, G. (2015). &quot; Installation issues of a small turboshaft engine into a light helicopter.&quot; <i>AVT-230 Specialists Meeting on Advanced Aircraft Propulsion Systems. Rzeszów, Poland</i>.'
 ---
 
@@ -14,3 +14,5 @@ In this paper, all aspects related to the design and installation of a new turbo
 The ESPOSA project develops and integrates novel design and manufacturing technologies for a range of small gas turbine engines up to approximately 1.000 kW (SL ISA) to provide aircraft manufacturers with a better choice of modern propulsion units. It also deals with engine-related systems that contribute to overall propulsion unit efficiency, safety and pilot workload reduction. Through the newly developed design tools and methodologies for the engine/aircraft integration, the project also contributes to the improved readiness for new gas turbine engine installation into small aircraft.
 
 ESPOSA is an FP7 Level 2 research project intended to study the applicability of small gas turbine engines on aircraft. Three applications have been selected to receive the 200 HP- rated TP/TS100 turboshaft2engine of PBS, two fixed-wing aircraft and one rotorcraft. This paper is related to the helicopter application of the TS100 turboshaft version into the Belgian B250 Winner Helico.
+
+[Download](https://morabito-a.github.io/info/files/2015-Eucass.pdf)
