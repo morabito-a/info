@@ -1,7 +1,7 @@
 ---
 title: "Installation issues of a small turboshaft engine into a light helicopter"
 collection: publications
-permalink: /publication/2015-Eucass
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'The ESPOSA project develops and integrates novel design and manufacturing technologies for a range of small gas turbine engines up to approximately 1.000 kW (SL ISA) to provide aircraft manufacturers with a better choice of modern propulsion units.'
 date: 2015-04-01
 venue: '6th European Conference For Aeronautics And Space Sciences (EUCASS)'
