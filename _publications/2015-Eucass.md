@@ -1,12 +1,12 @@
 ---
-title:"Installation issues of a small turboshaft engine into a light helicopter"
-collection:publications
-permalink:/publication/2010-10-01-paper-title-number-1
-excerpt:'The ESPOSA project develops and integrates novel design and manufacturing technologies for a range of small gas turbine engines up to approximately 1.000 kW (SL ISA) to provide aircraft manufacturers with a better choice of modern propulsion units.'
+title: "Installation issues of a small turboshaft engine into a light helicopter"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: 'The ESPOSA project develops and integrates novel design and manufacturing technologies for a range of small gas turbine engines up to approximately 1.000 kW (SL ISA) to provide aircraft manufacturers with a better choice of modern propulsion units.'
 date: 2015-04-01
-venue:'6th European Conference For Aeronautics And Space Sciences (EUCASS)'
-paperurl:'https://morabito-a.github.io/github.io-master/files/2015-Eucass.pdf'
-citation:'Hendrick, P., Gobeil, M., Morabito, A., Roba, C., Carozza, A., Mingione, G., & Pezzella, G. (2015). &quot; Installation issues of a small turboshaft engine into a light helicopter.&quot; <i>AVT-230 Specialists Meeting on Advanced Aircraft Propulsion Systems. Rzeszów, Poland</i>.'
+venue: '6th European Conference For Aeronautics And Space Sciences (EUCASS)'
+paperurl: 'https://morabito-a.github.io/github.io-master/files/2015-Eucass.pdf'
+citation: 'Hendrick, P., Gobeil, M., Morabito, A., Roba, C., Carozza, A., Mingione, G., & Pezzella, G. (2015). &quot; Installation issues of a small turboshaft engine into a light helicopter.&quot; <i>AVT-230 Specialists Meeting on Advanced Aircraft Propulsion Systems. Rzeszów, Poland</i>.'
 ---
 
 In this paper, all aspects related to the design and installation of a new turboshaft into a small helicopter are tackled, from the support of the engine on the helicopter structure (chassis or airframe), the transmission system including the tail rotor, the cooling of the engine and its lubrication oil, the air intake equipped with IBF (Inlet Barrier Filters) and the exhaust pipes to the fuel system or the controls. The integration of all these aspects and components in the helicopter is also detailed. Two examples are the full integration of the complete engine into the rear fuselage of the helicopter and CFD computations of the airflow in the first geometry of the “double ear” intake.
