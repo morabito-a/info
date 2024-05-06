@@ -22,11 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-<<<<<<< HEAD
-  name             : "Alessandro"
-=======
   name             : "Alessandro Morabito"
->>>>>>> cc2a1c6cfccba1b3467ec7b5670fc91066de8c74
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Lausanne"
