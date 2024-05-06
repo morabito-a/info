@@ -14,5 +14,3 @@ In this paper, all aspects related to the design and installation of a new turbo
 The ESPOSA project develops and integrates novel design and manufacturing technologies for a range of small gas turbine engines up to approximately 1.000 kW (SL ISA) to provide aircraft manufacturers with a better choice of modern propulsion units. It also deals with engine-related systems that contribute to overall propulsion unit efficiency, safety and pilot workload reduction. Through the newly developed design tools and methodologies for the engine/aircraft integration, the project also contributes to the improved readiness for new gas turbine engine installation into small aircraft.
 
 ESPOSA is an FP7 Level 2 research project intended to study the applicability of small gas turbine engines on aircraft. Three applications have been selected to receive the 200 HP- rated TP/TS100 turboshaft2engine of PBS, two fixed-wing aircraft and one rotorcraft. This paper is related to the helicopter application of the TS100 turboshaft version into the Belgian B250 Winner Helico.
-
-
