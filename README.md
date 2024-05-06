@@ -29,6 +29,13 @@ When you are initially working your website, it is very useful to be able to pre
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essentials gcc make`
 
+If you are running on MAC OS: 
+$ brew install ruby
+brew install node@20   
+@ Gemfile:  cd /Users/alessandro/Documents/GitHub/github.io-master
+bundle install
+@ github.io-master folder % jekyll serve -l -H localhost
+
 # Maintenance 
 
 Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
