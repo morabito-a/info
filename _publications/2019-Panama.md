@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Panama
 excerpt: ''
 date: 2019-09-10
-venue: 'Proceedings of the 38th IAHR World Congress “Water: Connecting the World"'
+venue: 'Proceedings of the 38th IAHR World Congress “Water: Connecting the World'
 paperurl: ''
 citation: 'Morabito, A., Furtado, G. C., Amarante Mesquita, A. L., & Hendrick, P. &quot;Variable speed regulation for pump as turbine in a micro pumped hydro energy storage application.&quot; <i>Proceedings of the 38th IAHR World Congress “Water: Connecting the World"</i> Panama City, Panama (pp. 1-6)'
 ---
