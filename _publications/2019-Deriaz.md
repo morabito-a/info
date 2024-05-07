@@ -1,7 +1,7 @@
 ---
 title: "Deriaz pump-turbine for pumped hydro energy storage and micro applications"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2019-Deriaz
 excerpt: ''
 date: 2019-04-10
 venue: 'Journal of Energy Storage, 24, 100788'
@@ -13,4 +13,5 @@ The growing importance of the efficiency and operational range of pumped hydro e
 
 
 [Download](https://doi.org/10.1016/j.est.2019.100788)
+
 [Download](https://morabito-a.github.io/info/files/2019-Deriaz.pdf)
