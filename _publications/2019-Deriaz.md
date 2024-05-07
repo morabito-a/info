@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Deriaz
 excerpt: ''
 date: 2019-04-10
-venue: 'Journal of Energy Storage, 24, 100788'
+venue: 'Journal of Energy Storage'
 paperurl: ''
 citation: 'Morabito, A., e Silva, G. D. O., & Hendrick, P. (2019). &quot; Deriaz pump-turbine for pumped hydro energy storage and micro applications.&quot; <i>Journal of Energy Storage, 24,</i> 100788'
 ---
