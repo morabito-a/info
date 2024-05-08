@@ -5,7 +5,7 @@ permalink: /publication/2022-Encyclopedia
 excerpt: ''
 date: 2022-01-1
 venue: 'Encyclopedia of Energy Storage'
-paperurl: ''
+paperurl: 'https://morabito-a.github.io/info/files/2022-Underground cavities in PHES and other alternate solutions'
 citation: 'Morabito, A., (2022). &quot;Underground cavities in PHES and other alternate solutions.&quot; <i>Encyclopedia of Energy Storage Vol.3</i> Pages 193-204'
 ---
 
