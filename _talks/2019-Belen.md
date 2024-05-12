@@ -3,8 +3,8 @@ title: "Pump as Turbine Analysis and Optimisation
 in Micro PHES Integrated in a Smart Grid: Challenges and Perspectives"
 collection: talks
 type: "Seminar"
-permalink: /talks/2019 -Tehran
-venue: "Department of Mechanical Engineering, University of Tehran"
+permalink: /talks/2019-Belen
+venue: ""
 date: 2019-10-12
 location: "Belen - Brazilia, Brazil"
 ---
