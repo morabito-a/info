@@ -9,37 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Since 2021: **Research Associate** 
+`Technology Platform of Hydraulic Machines at EPFL, Swizterland`
+  * Develop analytical and numerical models to support the feasibility analysis for hydropower plant operations with cross-functional engineering teams. Perform the monitoring of the operational parameters, constraints and risk identification.
+  * Methodological analysis of hydraulic short-circuit (HSC) for pumped-storage power plants participating in the ancillary service market.
+  * Lead complex 3D CAD design and Computational Fluid Dynamics (CFD) analyses to simulate and understand intricate water-flow conditions and system performances. 
+  * Develop and lead research portfolios, demonstrating proficiency in strategic planning and execution for experimental and numerical investigations.
+  * Redact reports, write scientific papers, and experience in applying for funding.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### 2014 - 2021: **Energy Engineer, Industrial Collaborator & Consultant**
+`Aero-Thermo-Mechanics at ULB, Belgium`
+  * Managed technical-economic calculations to define the required investments for prosumers and examine new business cases to support the energy transition: the Belgian case – [EPOC 2030-2050 prj](https://www.epocbelgium.be/en)
+  * Conducted performance and flexibility analysis to facilitate engagement in the electric grid balance of drinking water distributors. Evaluated Belgian potential and orchestrated technical implementation - [FlexWATTer prj](https://www.uee.uliege.be/cms/c_6038805/fr/flexwatter)  
+  * Pioneered the design and implementation of a groundbreaking micro-pumped hydro energy storage installation seamlessly integrated into a SmartGrid - [Smart-Water prj](https://www.multitel.eu/projects/smartwater/)
+  * Executed life-cycle assessment and greenhouse gas emissions (GHG) estimation for alternative hydropower solutions utilizing underground cavities - [Smart-Water prj](https://www.multitel.eu/projects/smartwater/)
+  * Assessed energy load and consumption for an indoor ski resort equipped with PV and reversible pump, including design and energy-flux estimation - (MontiSki prj) 
+  * Performed the analysis and thermodynamics modeling of Compressed Air Energy Storage (CAES) systems and thermal storage – (CAES-CET prj)
+  * Conducted fluid-dynamic analysis of air-intake systems for a light helicopter – [ESPOSA prj](http://www.esposa-project.eu)
   
-Skills
+### 2016 **Design Engineer Intern**
+`Ensival-Moret pump, Belgium`
+  * Crafted a specialized numerical model tailored to facilitate an informed selection of commercial centrifugal pumps optimized for generating mode. Integrated economic and technical factors for comprehensive analysis.
+  
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D. in Engineering Sciences and Technology, Université libre de Bruxelles, Belgium
+* M.Sc. in Science of Management, Vrije Universiteit Brussel, Belgium
+* M.Sc. in Energy Engineering - Power Generation, Politecnico di Milano, Italy
+* B.S. in Energy Engineering - Industrial Engineering, Politecnico di Milano, Italy
+
+Additional certified courses
+======
+* Sustainability and Corporate ESG: Practical Implementation, Prof. Eng. M.Oliveira, UFPR, Online
+* Multi-objective Optimization problems and algorithms, Udemy, Online
+* Centrifugal and Axial Pumps Design, Performance and Problem Solving, NREC- concept, Germany
+* Deepening in renewable energy technologies, ULPGC, Spain 
+
 
 Publications
 ======
@@ -59,6 +67,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
