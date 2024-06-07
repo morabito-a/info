@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Alessandro"
 description              : &description "personal description"
 url                      : https://morabito-a.github.io/info/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : https://morabito-a.github.io/info/ #"" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "morabito-a/info" #"academicpages/academicpages.github.io" #
 
 # Site Author - The following control what appear as part of the author content on the side bar.
