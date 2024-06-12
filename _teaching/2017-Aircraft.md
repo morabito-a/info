@@ -1,7 +1,7 @@
 ---
 title: "Gas Turbines & Aircraft propulsion MECA-H-507"
 collection: teaching
-type: "2015-2020 Master of Science in Electromechanical Engineering "
+type: "2017-2020 Master of Science in Electromechanical Engineering"
 permalink: /teaching/2017-Aircraft
 venue: "Université Libre de Bruxelles"
 date: 2017-01-01
