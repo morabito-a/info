@@ -8,6 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
+I am currently a Research Associate at the Technology Platform of Hydraulic Machines at EPFL, Switzerland. I specialize in analytical and numerical modeling for hydropower plant operations, focusing on hydraulic short-circuit analysis for pumped-storage plants partecipating in the recent energy markets. Previously, as an Energy Engineer, Industrial Collaborator & Consultant at ULB, Belgium, I was engaged in multiple applied energy projects focusing on optimization, flexibility and sustainability. 
+I hold a Ph.D. in Engineering Sciences, M.Sc. degrees in Management and Energy Engineering, and I have a strong publication record in energy storage and hydropower systems. 
+
 Work experience
 ======
 ### Since 2021: **Research Associate** 
