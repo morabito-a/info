@@ -55,7 +55,7 @@ Additional certified courses
 * Centrifugal and Axial Pumps Design, Performance and Problem Solving, NREC- concept, Germany
 * Deepening in renewable energy technologies, ULPGC, Spain 
 
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -73,4 +73,5 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+   -->
   
