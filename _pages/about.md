@@ -16,8 +16,8 @@ Work experience
 ### Since 2021: **Research Associate** 
 `Technology Platform of Hydraulic Machines at EPFL, Swizterland`
   * Develop analytical and numerical models to support the feasibility analysis for hydropower plant operations with cross-functional engineering teams. Perform the monitoring of the operational parameters, constraints and risk identification.
-  * Methodological analysis and implemetnation of hydraulic short-circuit (HSC) for pumped-storage power plants participating in the ancillary service market.
-  * Partnered with machine learning team for the components fatigue prediction in hydropower generation.
+  * Methodological analysis and implemetnation of hydraulic short-circuit (HSC) for pumped-storage power plants participating in the ancillary service market in a 210 MW hydropower plant. 
+  * Partnered with _Machine Learning_ research team for the prediction of fatgue phenomena in hydro-mechanical components.
   * Lead complex 3D Computational Fluid Dynamics (CFD) analyses to simulate and understand intricate water-flow conditions and system performances. 
   * Develop and lead research portfolios, demonstrating proficiency in strategic planning and execution for experimental and numerical investigations.
   * Redact reports, write scientific papers, and experience in applying for funding.
