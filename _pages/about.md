@@ -13,7 +13,7 @@ I hold a Ph.D. in Engineering Sciences, a M.Sc. degree in Science of Management 
 
 Work experience
 ======
-### Since 2021: **Research Associate** 
+### 2021 - 2024: **Research Associate and Project Manager** 
 `Technology Platform of Hydraulic Machines at EPFL, Swizterland`
   * Develop analytical and numerical models to support the feasibility analysis for hydropower plant operations with cross-functional engineering teams. Perform the monitoring of the operational parameters, constraints and risk identification.
   * Methodological analysis and implemetnation of hydraulic short-circuit (HSC) for pumped-storage power plants participating in the ancillary service market in a 210 MW hydropower plant. 
