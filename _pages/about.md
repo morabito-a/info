@@ -8,19 +8,19 @@ redirect_from:
 ---
 {% include base_path %}
 
-In my recent role, I held the position of Research Associate at the Technology Platform of Hydraulic Machines at EPFL, Switzerland. I specialized in analytical and numerical modeling for hydropower plant operations, focusing on hydraulic short-circuit analysis for pumped-storage plants partecipating in the recent energy markets. Previously, as an Energy Engineer, Industrial Collaborator & Consultant at ULB, Belgium, I was engaged in multiple applied energy projects focusing on optimization, flexibility and sustainability. 
-I hold a Ph.D. in Engineering Sciences, a M.Sc. degree in Science of Management and a M.Sc. degree in Energy Engineering.
+In my recent role, I held the position of Research Associate at the Technology Platform of Hydraulic Machines at EPFL, Switzerland. I specialized in analytical and numerical modeling for hydropower plant operations, focusing on hydraulic short-circuit analysis for pumped-storage plants partecipating in the modern energy markets. Previously, as an Energy Engineer, Industrial Collaborator & Consultant at ULB, Belgium, I was engaged in multiple applied energy projects focusing on optimization, flexibility and sustainability. 
+I hold a Ph.D. in Engineering Sciences, an M.Sc. degree in Science of Management, and an M.Sc. degree in Energy Engineering.
 
 Work experience
 ======
 ### 2021 - 2024: **Research Associate and Project Manager** 
 `Technology Platform of Hydraulic Machines at EPFL, Swizterland`
-  * Develop analytical and numerical models to support the feasibility analysis for hydropower plant operations with cross-functional engineering teams. Perform the monitoring of the operational parameters, constraints and risk identification.
-  * Methodological analysis and implemetnation of hydraulic short-circuit (HSC) for pumped-storage power plants participating in the ancillary service market in a 210 MW hydropower plant. 
-  * Partnered with _Machine Learning_ research team for the prediction of fatigue phenomena in hydro-mechanical components during start-up sequences.
-  * Lead complex 3D Computational Fluid Dynamics (CFD) analyses to simulate and understand intricate water-flow conditions and system performances. 
-  * Develop and lead research portfolios, demonstrating proficiency in strategic planning and execution for experimental and numerical investigations.
-  * Redact reports, write scientific papers, and experience in applying for funding.
+  * Developed analytical and numerical models to support feasibility analyses for hydropower plant operations, collaborating with cross-functional engineering teams. Monitored operational parameters and constraints, identifying potential risks to ensure efficient plant performance.
+  * Conducted methodological analysis and implementation of hydraulic short-circuit (HSC) systems for pumped-storage power plants participating in the ancillary service market, focusing on a 210 MW hydropower plant.
+  * Partnered with a _Machine Learning_ research team to predict fatigue phenomena in hydro-mechanical components during start-up sequences.
+  * Lead complex 3D Computational Fluid Dynamics (CFD) analyses to simulate and understand intricate water-flow conditions and assess system performances. 
+  * Developed and led research portfolios, demonstrating expertise in strategic planning and execution of experimental and numerical investigations.
+  * Authored technical reports, published scientific papers, and contributed to funding applications.
 
 ### 2014 - 2021: **Energy Engineer, Industrial Collaborator & Consultant**
 `Aero-Thermo-Mechanics at ULB, Belgium`
