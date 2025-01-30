@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-In my most recent role, I held the position of Research Associate at the Technology Platform of Hydraulic Machines at EPFL, Switzerland. I specialized in analytical and numerical modeling for hydropower plant operations, focusing on hydraulic short-circuit analysis for pumped-storage plants partecipating in the recent energy markets. Previously, as an Energy Engineer, Industrial Collaborator & Consultant at ULB, Belgium, I was engaged in multiple applied energy projects focusing on optimization, flexibility and sustainability. 
+In my recent role, I held the position of Research Associate at the Technology Platform of Hydraulic Machines at EPFL, Switzerland. I specialized in analytical and numerical modeling for hydropower plant operations, focusing on hydraulic short-circuit analysis for pumped-storage plants partecipating in the recent energy markets. Previously, as an Energy Engineer, Industrial Collaborator & Consultant at ULB, Belgium, I was engaged in multiple applied energy projects focusing on optimization, flexibility and sustainability. 
 I hold a Ph.D. in Engineering Sciences, a M.Sc. degree in Science of Management and a M.Sc. degree in Energy Engineering.
 
 Work experience
@@ -17,7 +17,7 @@ Work experience
 `Technology Platform of Hydraulic Machines at EPFL, Swizterland`
   * Develop analytical and numerical models to support the feasibility analysis for hydropower plant operations with cross-functional engineering teams. Perform the monitoring of the operational parameters, constraints and risk identification.
   * Methodological analysis and implemetnation of hydraulic short-circuit (HSC) for pumped-storage power plants participating in the ancillary service market in a 210 MW hydropower plant. 
-  * Partnered with _Machine Learning_ research team for the prediction of fatgue phenomena in hydro-mechanical components.
+  * Partnered with _Machine Learning_ research team for the prediction of fatigue phenomena in hydro-mechanical components during start-up sequences.
   * Lead complex 3D Computational Fluid Dynamics (CFD) analyses to simulate and understand intricate water-flow conditions and system performances. 
   * Develop and lead research portfolios, demonstrating proficiency in strategic planning and execution for experimental and numerical investigations.
   * Redact reports, write scientific papers, and experience in applying for funding.
