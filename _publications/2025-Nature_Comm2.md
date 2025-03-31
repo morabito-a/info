@@ -1,3 +1,4 @@
+---
 title: "Fatigue damage reduction in hydropower startups with machine learning"
 collection: publications
 permalink: /publication/2025-Nature_Comm
