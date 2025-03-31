@@ -1,16 +1,16 @@
 ---
-title: "CFD-based analysis of pumped storage power plants implementing hydraulic short circuit operations"
+title: "Fatigue damage reduction in hydropower startups with machine learning"
 collection: publications
-permalink: /publication/2024-CFD-HSC
+permalink: /publication/2025-Nature_Comm.md
 excerpt: ''
 date: 2024-09-1
-venue: 'Applied Energy'
+venue: 'Nature Communications'
 paperurl: ''
-citation: 'Morabito, A.& Vagnoni, E. (2024). &quot;CFD-based analysis of pumped storage power plants implementing hydraulic short circuit operations.&quot; <i>Applied Energy</i> 369, 123474'
+citation: 'Till, M. Krymova, E. Morabito, A. & Vagnoni, E. (2025). &quot;Fatigue damage reduction in hydropower startups with machine learning.&quot; <i>Nature Communications</i> 16.1, 2961'
 ---
-[Download](https://morabito-a.github.io/info/files/2024-CFD-HSC.pdf)
+[Download](https://morabito-a.github.io/info/files/2025-Nature_Comm.pdf)
 
-Hydraulic short circuit (HSC), corresponding to the simultaneous operation of the pumps and turbines, enhances the power flexibility of a pumped storage power plant (PSPP). However, comprehensive analyses are imperative to guarantee a secure and reliable operation within this novel operational mode. Unforeseen engaging dynamics may perturb the safe operation of the groups. The existing literature still lacks comprehensive analysis concerning the water flow structures and tubomachines performances during HSC operations across the entire hydraulic circuit. This paper evaluates the fluid-dynamic interactions between the units during HSC operations using 3D unsteady-state CFD simulations of an existing PSPP not designed for enduring such conditions. The total pressure evolution in the upstream trifurcation and consequent effects on the turbine performance are discussed by the selected HSC configurations. In the trifurcation, between the pumping unit and the turbine, the relative head loss reaches 1,78% and, eventually, anomalies of the velocity field are documented on a case-by-case basis. Moreover, the pump operations are investigated in HSC operations with the matter of efficiency detriments, cavitation and air entrainment risk. The results highlight that the pumping unit in HSC compared to the baseline operation undergoes a reduction in hydraulic efficiency up to 0.51% due to the operation of adjacent turbine. The documented observations led to the application of additional criteria for the safe and stable governing control of the PSPP in HSC.
+As the global shift towards renewable energy accelerates, achieving stability in power systems is crucial. Hydropower accounts for approximately 17% of energy produced worldwide, and with its capacity for active and reactive power regulation, is well-suited to provide necessary ancillary services. However, as demand for these services rises, hydropower systems must adapt to handle rapid dynamic changes and off-design conditions. Fatigue damage in hydraulic machines, driven by fluctuating loads and varying mechanical stresses, is especially prominent during the transient start-up of the machine. In this study, we introduce a data-driven approach to identify transient start-up trajectories that minimize fatigue damage. We optimize the trajectory by leveraging a machine learning model, trained on experimental stress data of reduced-scale model turbines. Numerical and experimental results confirm that our optimized trajectory significantly reduces start-up damage, representing a meaningful advancement in hydropower operations, maintenance, and the safe transition to higher operational flexibility.
 
 
 
