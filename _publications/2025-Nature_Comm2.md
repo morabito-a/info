@@ -6,7 +6,8 @@ excerpt: ''
 date: 2025-03-1
 venue: 'Nature Communications'
 paperurl: ''
-citation: 'Morabito, A.& Vagnoni, E. (2024). &quot;CFD-based analysis of pumped storage power plants implementing hydraulic short circuit operations.&quot; <i>Applied Energy</i> 369, 123474'
+citation: 'Muser, T., Krymova, K., Morabito, A., Seydoux, M. & Vagnoni, E. (2024). &quot;Fatigue damage reduction in hydropower startups with machine learning.&quot; <i>Nature Communications</i> 369, 123474'
+Muser, Till and Krymova, Ekaterina and Morabito, Alessandro 
 ---
 [Download](https://morabito-a.github.io/info/files/2025-Nature_Comm.pdf)
 
