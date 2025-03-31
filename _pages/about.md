@@ -50,6 +50,7 @@ Education
 
 Additional certified courses
 ======
+* Deeply Practical Project Management, IFPPM, Online 
 * Sustainability and Corporate ESG: Practical Implementation, Prof. Eng. M.Oliveira, UFPR, Online
 * Multi-objective Optimization problems and algorithms, Udemy, Online
 * Centrifugal and Axial Pumps Design, Performance and Problem Solving, NREC- concept, Germany
