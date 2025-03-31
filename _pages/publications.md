@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Thesis:
+<p style="font-size: 1.5em; font-weight: bold;">Thesis:</p>
 
 * Ph.D. in Engineering Sciences and Technology, Université libre de Bruxelles, Belgium.<br>
 [Thesis: Experimental and numerical analysis of a Pump as Turbine in micro Pumped Hydro Energy Storage
