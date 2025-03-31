@@ -1,7 +1,6 @@
----
-title: "CFD-based analysis of pumped storage power plants implementing hydraulic short circuit operations"
+title: "Fatigue damage reduction in hydropower startups with machine learning"
 collection: publications
-permalink: /publication/2024-CFD-HSC
+permalink: /publication/2025-Nature_Comm
 excerpt: ''
 date: 2025-09-1
 venue: 'Applied Energy'
