@@ -3,8 +3,8 @@ title: "Fatigue damage reduction in hydropower startups with machine learning"
 collection: publications
 permalink: /publication/2025-Nature_Comm
 excerpt: ''
-date: 2025-09-1
-venue: 'Applied Energy'
+date: 2025-03-1
+venue: 'Nature Communications'
 paperurl: ''
 citation: 'Morabito, A.& Vagnoni, E. (2024). &quot;CFD-based analysis of pumped storage power plants implementing hydraulic short circuit operations.&quot; <i>Applied Energy</i> 369, 123474'
 ---
