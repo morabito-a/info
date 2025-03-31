@@ -3,7 +3,7 @@ title: "Fatigue damage reduction in hydropower startups with machine learning"
 collection: publications
 permalink: /publication/2025-Nature_Comm.md
 excerpt: ''
-date: 2024-09-1
+date: 2025-03-26
 venue: 'Nature Communications'
 paperurl: ''
 citation: 'Till, M. Krymova, E. Morabito, A. & Vagnoni, E. (2025). &quot;Fatigue damage reduction in hydropower startups with machine learning.&quot; <i>Nature Communications</i> 16.1, 2961'
