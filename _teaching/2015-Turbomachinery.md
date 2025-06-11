@@ -4,7 +4,7 @@ collection: teaching
 type: "2015-2020 Master of Science in Electromechanical Engineering "
 permalink: /teaching/2015-Turbomachinery
 venue: "Université Libre de Bruxelles"
-date: "2015-01-01"
+date: ""
 location: "Brussels, Belgium"
 ---
 
